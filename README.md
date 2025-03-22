@@ -34,7 +34,7 @@ coming up.... 🔃
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/lgope/job-portal.git
+https://github.com/27tulsi/job-portal.git
 ```
 
 <p>2. Create a new file name `config.env` in the root directory then set up the back-end env variables </p>
